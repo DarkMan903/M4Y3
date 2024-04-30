@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0 3%;
+    font-family: "Mulish", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.2em;
+    background: linear-gradient(180deg, #A0BF93 0%, rgba(221, 172, 172, 0.493) 100%);
+    color:black;
+}
